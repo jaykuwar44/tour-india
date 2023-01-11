@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tour-india/static/css/main.740d795d.css",
+    "main.js": "/tour-india/static/js/main.1ea0aca9.js",
+    "static/js/787.947ffccd.chunk.js": "/tour-india/static/js/787.947ffccd.chunk.js",
+    "static/media/Vivekananda_Rock.jpg": "/tour-india/static/media/Vivekananda_Rock.39b321261a3cd0e1fc59.jpg",
+    "static/media/bgimg-1.jpg": "/tour-india/static/media/bgimg-1.bfcf165c77eb5ee74f0f.jpg",
+    "static/media/hampi.jpg": "/tour-india/static/media/hampi.0421563a3c1da81c4f1b.jpg",
+    "static/media/twang.jpg": "/tour-india/static/media/twang.542cd1d4a77a9cec2b15.jpg",
+    "static/media/tour.png": "/tour-india/static/media/tour.4f70a033e04f6ee54f11.png",
+    "static/media/servicebg.jpg": "/tour-india/static/media/servicebg.cf7030fabba5f93e5986.jpg",
+    "static/media/Mehrangarh-Fort.jpg": "/tour-india/static/media/Mehrangarh-Fort.b197ee65543dd840d4ad.jpg",
+    "static/media/sanchi-stupa.jpg": "/tour-india/static/media/sanchi-stupa.ee32ffb50d9d22033752.jpg",
+    "static/media/umngott.jpg": "/tour-india/static/media/umngott.aeaf0e2cbadd63283a9e.jpg",
+    "static/media/alleppey.jpg": "/tour-india/static/media/alleppey.8bc01f7b82dea73bf5c7.jpg",
+    "static/media/Camel-Safari.jpg": "/tour-india/static/media/Camel-Safari.42a5f421baf720c6a668.jpg",
+    "static/media/gold-temple.jpg": "/tour-india/static/media/gold-temple.a0d013c35b495eec36c6.jpg",
+    "static/media/Gwalior-Fort.jpg": "/tour-india/static/media/Gwalior-Fort.b9c5a3b938d8ee262122.jpg",
+    "static/media/Mon.jpg": "/tour-india/static/media/Mon.d30237f81e98d345ff4c.jpg",
+    "static/media/goa.jpg": "/tour-india/static/media/goa.fbe3cc924628f5933e55.jpg",
+    "index.html": "/tour-india/index.html",
+    "main.740d795d.css.map": "/tour-india/static/css/main.740d795d.css.map",
+    "main.1ea0aca9.js.map": "/tour-india/static/js/main.1ea0aca9.js.map",
+    "787.947ffccd.chunk.js.map": "/tour-india/static/js/787.947ffccd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.740d795d.css",
+    "static/js/main.1ea0aca9.js"
+  ]
+}
