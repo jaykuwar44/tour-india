@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tour-india/static/css/main.740d795d.css",
-    "main.js": "/tour-india/static/js/main.102e18b5.js",
+    "main.css": "/tour-india/static/css/main.f1bad801.css",
+    "main.js": "/tour-india/static/js/main.6a484764.js",
     "static/js/787.947ffccd.chunk.js": "/tour-india/static/js/787.947ffccd.chunk.js",
     "static/media/Vivekananda_Rock.jpg": "/tour-india/static/media/Vivekananda_Rock.39b321261a3cd0e1fc59.jpg",
     "static/media/bgimg-1.jpg": "/tour-india/static/media/bgimg-1.bfcf165c77eb5ee74f0f.jpg",
@@ -19,12 +19,12 @@
     "static/media/Mon.jpg": "/tour-india/static/media/Mon.d30237f81e98d345ff4c.jpg",
     "static/media/goa.jpg": "/tour-india/static/media/goa.fbe3cc924628f5933e55.jpg",
     "index.html": "/tour-india/index.html",
-    "main.740d795d.css.map": "/tour-india/static/css/main.740d795d.css.map",
-    "main.102e18b5.js.map": "/tour-india/static/js/main.102e18b5.js.map",
+    "main.f1bad801.css.map": "/tour-india/static/css/main.f1bad801.css.map",
+    "main.6a484764.js.map": "/tour-india/static/js/main.6a484764.js.map",
     "787.947ffccd.chunk.js.map": "/tour-india/static/js/787.947ffccd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.740d795d.css",
-    "static/js/main.102e18b5.js"
+    "static/css/main.f1bad801.css",
+    "static/js/main.6a484764.js"
   ]
 }
